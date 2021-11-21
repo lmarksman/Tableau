@@ -1,0 +1,13 @@
+Observations
+
+When viewing the when the riders began you can notice an increase in frequency of riders as the summer months approach
+Additionally beginning at about 3 in the afternoon is when riders began riding. Assuming this is the time when workers are returning home
+or free time is beginning.
+
+Mapping observations with times
+
+In the very early mornings you can see very few riders. Assumption is people are sleeping
+As the day starts people using the bikes may be commuting or are now free to use the equipment.
+
+When viewing the Ride Duration by Station Dashboard it was interesting to see it seemed as the lesser popular stations
+had longer ride durations.
